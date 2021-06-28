@@ -22,7 +22,7 @@ public class HomeWork2 {
                 arr[i] = 0;
             }
             System.out.println(Arrays.toString(arr));
-        }
+        }}
 
     // Задать пустой целочисленный массив размером 8.
     // С помощью цикла заполнить его значениями 0 3 6 9 12 15 18 21;
